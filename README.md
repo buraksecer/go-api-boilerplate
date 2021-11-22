@@ -1,2 +1,1 @@
-# go-api-boilerplate
-let's do it simply
+# let's do it simply
